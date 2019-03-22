@@ -1,0 +1,1 @@
+make a 'shots' folder on the root and run `npm install` followed by `node index.js`
